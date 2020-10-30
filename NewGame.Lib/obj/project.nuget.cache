@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "P/LBKcx/iIty9XelFSwGEG2ARgCqaHFOEP+SxUb7Sg2EENdBk+Qku7smRHd4AcaGKHjKbJ0kA6km/Z49wklY3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\felipe.evaristo\\Desktop\\ASP.Net\\NewGame.Lib\\NewGame.Lib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felipe.evaristo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\felipe.evaristo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

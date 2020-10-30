@@ -1,0 +1,9 @@
+C:\Users\felipe.evaristo\Desktop\ASP.Net\NewGame.Interface\bin\Debug\netstandard2.0\NewGame.Interface.deps.json
+C:\Users\felipe.evaristo\Desktop\ASP.Net\NewGame.Interface\bin\Debug\netstandard2.0\NewGame.Interface.dll
+C:\Users\felipe.evaristo\Desktop\ASP.Net\NewGame.Interface\bin\Debug\netstandard2.0\NewGame.Interface.pdb
+C:\Users\felipe.evaristo\Desktop\ASP.Net\NewGame.Interface\obj\Debug\netstandard2.0\NewGame.Interface.csprojAssemblyReference.cache
+C:\Users\felipe.evaristo\Desktop\ASP.Net\NewGame.Interface\obj\Debug\netstandard2.0\NewGame.Interface.AssemblyInfoInputs.cache
+C:\Users\felipe.evaristo\Desktop\ASP.Net\NewGame.Interface\obj\Debug\netstandard2.0\NewGame.Interface.AssemblyInfo.cs
+C:\Users\felipe.evaristo\Desktop\ASP.Net\NewGame.Interface\obj\Debug\netstandard2.0\NewGame.Interface.csproj.CoreCompileInputs.cache
+C:\Users\felipe.evaristo\Desktop\ASP.Net\NewGame.Interface\obj\Debug\netstandard2.0\NewGame.Interface.dll
+C:\Users\felipe.evaristo\Desktop\ASP.Net\NewGame.Interface\obj\Debug\netstandard2.0\NewGame.Interface.pdb

@@ -1,0 +1,12 @@
+C:\Users\felipe.evaristo\Desktop\ASP.Net\NewGame.Lib\bin\Debug\netstandard2.0\NewGame.Lib.deps.json
+C:\Users\felipe.evaristo\Desktop\ASP.Net\NewGame.Lib\bin\Debug\netstandard2.0\NewGame.Lib.dll
+C:\Users\felipe.evaristo\Desktop\ASP.Net\NewGame.Lib\bin\Debug\netstandard2.0\NewGame.Lib.pdb
+C:\Users\felipe.evaristo\Desktop\ASP.Net\NewGame.Lib\bin\Debug\netstandard2.0\NewGame.Interface.dll
+C:\Users\felipe.evaristo\Desktop\ASP.Net\NewGame.Lib\bin\Debug\netstandard2.0\NewGame.Interface.pdb
+C:\Users\felipe.evaristo\Desktop\ASP.Net\NewGame.Lib\obj\Debug\netstandard2.0\NewGame.Lib.csprojAssemblyReference.cache
+C:\Users\felipe.evaristo\Desktop\ASP.Net\NewGame.Lib\obj\Debug\netstandard2.0\NewGame.Lib.AssemblyInfoInputs.cache
+C:\Users\felipe.evaristo\Desktop\ASP.Net\NewGame.Lib\obj\Debug\netstandard2.0\NewGame.Lib.AssemblyInfo.cs
+C:\Users\felipe.evaristo\Desktop\ASP.Net\NewGame.Lib\obj\Debug\netstandard2.0\NewGame.Lib.csproj.CoreCompileInputs.cache
+C:\Users\felipe.evaristo\Desktop\ASP.Net\NewGame.Lib\obj\Debug\netstandard2.0\NewGame.Lib.csproj.CopyComplete
+C:\Users\felipe.evaristo\Desktop\ASP.Net\NewGame.Lib\obj\Debug\netstandard2.0\NewGame.Lib.dll
+C:\Users\felipe.evaristo\Desktop\ASP.Net\NewGame.Lib\obj\Debug\netstandard2.0\NewGame.Lib.pdb

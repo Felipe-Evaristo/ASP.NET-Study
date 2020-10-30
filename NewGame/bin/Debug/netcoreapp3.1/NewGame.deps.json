@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NewGame/1.0.0": {
+        "dependencies": {
+          "NewGame.Interface": "1.0.0",
+          "NewGame.Lib": "1.0.0"
+        },
+        "runtime": {
+          "NewGame.dll": {}
+        }
+      },
+      "NewGame.Interface/1.0.0": {
+        "runtime": {
+          "NewGame.Interface.dll": {}
+        }
+      },
+      "NewGame.Lib/1.0.0": {
+        "dependencies": {
+          "NewGame.Interface": "1.0.0"
+        },
+        "runtime": {
+          "NewGame.Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NewGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NewGame.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NewGame.Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

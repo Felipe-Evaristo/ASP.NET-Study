@@ -1,0 +1,115 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NewGame.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/NewGame.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NewGame.Interface.dll": {}
+        }
+      },
+      "NewGame.Lib/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "NewGame.Interface": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NewGame.Lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NewGame.Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NewGame.Interface/1.0.0": {
+      "type": "project",
+      "path": "../NewGame.Interface/NewGame.Interface.csproj",
+      "msbuildProject": "../NewGame.Interface/NewGame.Interface.csproj"
+    },
+    "NewGame.Lib/1.0.0": {
+      "type": "project",
+      "path": "../NewGame.Lib/NewGame.Lib.csproj",
+      "msbuildProject": "../NewGame.Lib/NewGame.Lib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "NewGame.Interface >= 1.0.0",
+      "NewGame.Lib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\felipe.evaristo\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\felipe.evaristo\\Desktop\\ASP.Net\\NewGame\\NewGame.csproj",
+      "projectName": "NewGame",
+      "projectPath": "C:\\Users\\felipe.evaristo\\Desktop\\ASP.Net\\NewGame\\NewGame.csproj",
+      "packagesPath": "C:\\Users\\felipe.evaristo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\felipe.evaristo\\Desktop\\ASP.Net\\NewGame\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\felipe.evaristo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\felipe.evaristo\\Desktop\\ASP.Net\\NewGame.Interface\\NewGame.Interface.csproj": {
+              "projectPath": "C:\\Users\\felipe.evaristo\\Desktop\\ASP.Net\\NewGame.Interface\\NewGame.Interface.csproj"
+            },
+            "C:\\Users\\felipe.evaristo\\Desktop\\ASP.Net\\NewGame.Lib\\NewGame.Lib.csproj": {
+              "projectPath": "C:\\Users\\felipe.evaristo\\Desktop\\ASP.Net\\NewGame.Lib\\NewGame.Lib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
