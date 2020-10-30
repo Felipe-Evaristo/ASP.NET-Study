@@ -5,11 +5,11 @@ namespace NewGame
 {
     public class NiceGame
     {
-        private readonly iPlayer _Player1;
+        private readonly IPlayer _Player1;
 
-        private readonly iPlayer _Player2;
+        private readonly IPlayer _Player2;
           
-        public NiceGame(iPlayer Player1, iPlayer Player2){
+        public NiceGame(IPlayer Player1, IPlayer Player2){
             _Player1 = Player1;
             _Player2 = Player2;
         }

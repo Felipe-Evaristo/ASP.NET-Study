@@ -1,6 +1,6 @@
 namespace NewGame.Interface
 {
-    public interface iPlayer
+    public interface IPlayer
     {
          string Run();
          string Dead();

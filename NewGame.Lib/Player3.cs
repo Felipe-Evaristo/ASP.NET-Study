@@ -2,7 +2,7 @@ using NewGame.Interface;
 
 namespace NewGame.Lib
 {
-    public class Player3 : iPlayer
+    public class Player3 : IPlayer
     {
         public string Dead()
         {
